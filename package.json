@@ -19,7 +19,10 @@
     "url": "https://github.com/duduling/storybook-example/issues"
   },
   "homepage": "https://github.com/duduling/storybook-example#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27"
+  },
   "devDependencies": {
     "@babel/core": "^7.10.3",
     "@storybook/addon-actions": "^5.3.19",
